@@ -65,7 +65,7 @@ Personal portfolio project showcasing developer skills, project summaries, and a
 ## Contact
 
 - LinkedIn: https://www.linkedin.com/in/saad-bin-riaz-56b802374/
-- Email: `your-email@example.com`
+- Email: `malik.saad.riaz96@gmail.com`
 
 ---
 
