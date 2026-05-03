@@ -1,72 +1,124 @@
-# Saad Bin Riaz
+# 👋 Hi, I'm Saad Bin Riaz
 
-AI-focused software engineer building practical Python applications, backend workflows, and automation solutions.
+🚀 **AI-Focused Software Engineer | Python Backend Developer | Automation Builder**
 
----
-
-## About Me
-
-I build reliable software with Python, clean web interfaces, and data-driven workflows. I focus on delivering practical applications that solve real problems and are easy to maintain.
-
-- Experienced in Python-based systems and CRUD application development
-- Strong focus on backend logic, database integration, and automation
-- Comfortable collaborating with Git, GitHub, and modern development workflows
+I design and build practical, scalable applications using Python, focusing on backend systems, automation workflows, and clean architecture. I enjoy turning real-world problems into reliable software solutions.
 
 ---
 
-## Skills
+## 🧠 About Me
 
-### Backend
+- 💻 Backend-focused developer with strong Python expertise  
+- ⚙️ Experienced in building CRUD systems and REST APIs  
+- 🗄 Skilled in database design and SQL (MySQL)  
+- 🔄 Passionate about automation and workflow optimization  
+- 📈 Continuously learning advanced backend and AI integration  
+
+---
+
+## 🛠 Tech Stack
+
+### 🔹 Backend
 - Python
 - REST APIs
 - MySQL / SQL
-- CRUD systems
-- Application logic
+- Application Logic & System Design
 
-### Frontend
+### 🔹 Frontend
 - HTML
 - CSS
 - JavaScript
-- Responsive UI design
+- Responsive UI Design
 
-### Tools & Productivity
-- Git / GitHub
+### 🔹 Tools & Workflow
+- Git & GitHub
 - VS Code
-- Command-line workflows
-- Project-based development
+- Command Line (CLI)
+- Modular Project Structure
 
 ---
 
-## Projects
+## 📊 GitHub Stats
 
-### [Ecommerce](https://github.com/SaadRiaz99/Ecommerce)
-Responsive ecommerce application featuring product listings, cart operations, and a polished user interface.
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SaadRiaz99&show_icons=true&theme=tokyonight)
 
-### [Hospital](https://github.com/SaadRiaz99/Hospital)
-Clinic management system for patient and doctor workflows, record tracking, and basic operational logic.
-
-### [Student-Portal](https://github.com/SaadRiaz99/Student-Portal)
-Student information platform with grade management, marksheet generation, and student record handling.
-
-### [Saad-Bin-Riaz-Portfolio](https://github.com/SaadRiaz99/Saad-Bin-Riaz-Portfolio)
-Personal portfolio project showcasing developer skills, project summaries, and a professional presentation layout.
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SaadRiaz99&layout=compact&theme=tokyonight)
 
 ---
 
-## What I Offer
+## 🚀 Featured Projects
 
-- Practical, project-oriented software development
-- Clear code organization and maintainable architecture
-- Fast learning and adaptation to new tools and requirements
-- Focus on delivering value through working solutions
-
----
-
-## Contact
-
-- LinkedIn: https://www.linkedin.com/in/saad-bin-riaz-56b802374/
-- Email: `malik.saad.riaz96@gmail.com`
+### 🛒 Ecommerce Application
+🔗 https://github.com/SaadRiaz99/Ecommerce  
+- Product listing and cart system  
+- Responsive UI design  
+- Structured backend logic  
 
 ---
 
-> Open to software engineering roles where I can contribute backend development, automation, and product-oriented implementation.
+### 🏥 Hospital Management System
+🔗 https://github.com/SaadRiaz99/Hospital  
+- Patient and doctor workflows  
+- Record management system  
+- CRUD-based architecture  
+
+---
+
+### 🎓 Student Portal
+🔗 https://github.com/SaadRiaz99/Student-Portal  
+- Student record management  
+- Marksheet generation  
+- Organized data handling  
+
+---
+
+### 🌐 Portfolio Website
+🔗 https://github.com/SaadRiaz99/Saad-Bin-Riaz-Portfolio  
+- Clean UI/UX design  
+- Project showcase  
+- Professional presentation  
+
+---
+
+## 🧪 Engineering Practices
+
+- Clean and maintainable code structure  
+- Modular backend architecture  
+- Database normalization  
+- Error handling and validation  
+- Git-based version control  
+
+---
+
+## 🔥 Current Focus
+
+- Advanced backend system design  
+- API performance and optimization  
+- Automation tools with Python  
+- AI-powered application development  
+
+---
+
+## 🌍 Future Goals
+
+- Build scalable SaaS applications  
+- Integrate AI into real-world systems  
+- Contribute to open-source projects  
+- Work on high-impact backend systems  
+
+---
+
+## 📬 Contact Me
+
+- 🔗 LinkedIn: https://www.linkedin.com/in/saad-bin-riaz-56b802374/
+- 📧 Email: malik.saad.riaz96@gmail.com  
+
+---
+
+## ⚡ Fun Fact
+
+I enjoy building systems that save time, reduce manual effort, and make processes smarter through automation.
+
+---
+
+⭐ *Open to backend development, automation, and AI-focused opportunities*
