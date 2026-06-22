@@ -36,7 +36,7 @@ Self-correcting automation loops that handle data processing and API synchroniza
 
 I'm following a structured **18-month Agentic AI Engineer roadmap** to reach top-tier global researcher level:
 
-![Phase Progress](https://progress-bar.dev/1/?title=Phase%201%20-%20Engineering%20Core&width=120)
+![Phase Progress](https://progress-bar.dev/14/?title=Phase%201%20-%20Engineering%20Core&width=120)
 ![Phase Progress](https://progress-bar.dev/0/?title=Phase%202%20-%20LLM%20Depth&width=100)
 ![Phase Progress](https://progress-bar.dev/0/?title=Phase%203%20-%20Single-Agent&width=100)
 ![Phase Progress](https://progress-bar.dev/0/?title=Phase%204%20-%20Multi-Agent&width=100)
@@ -51,10 +51,10 @@ I'm following a structured **18-month Agentic AI Engineer roadmap** to reach top
 
 ## 🧠 Current Learning Focus
 
+- **Week 2: Advanced Python** — async concurrency, type narrowing, metaprogramming
+- **Deliverable** — async scraper: 1000 concurrent requests, exponential backoff, retry, rate limiting
 - **Model Context Protocol (MCP)** — unifying how agents connect to tools and data
-- **Agentic Security** — IAM and RBAC for autonomous agents
 - **Multi-Agent Orchestration** — decentralized agent swarms
-- **Knowledge Graphs** — graph-based RAG beyond vector search
 
 ---
 
