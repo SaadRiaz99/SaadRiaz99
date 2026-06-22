@@ -1,124 +1,77 @@
-# 👋 Hi, I'm Saad Bin Riaz
+# 👋 I'm Saad Bin Riaz
 
-🚀 **AI-Focused Software Engineer | Python Backend Developer | Automation Builder**
+**Agentic AI & Automation Engineer** — Architecting autonomous silicon workforces.
 
-I design and build practical, scalable applications using Python, focusing on backend systems, automation workflows, and clean architecture. I enjoy turning real-world problems into reliable software solutions.
+I build intelligent AI agents that reason, use tools, and collaborate to execute complex business workflows. Currently focused on multi-agent systems, MCP, and production-ready agent infrastructure.
 
----
-
-## 🧠 About Me
-
-- 💻 Backend-focused developer with strong Python expertise  
-- ⚙️ Experienced in building CRUD systems and REST APIs  
-- 🗄 Skilled in database design and SQL (MySQL)  
-- 🔄 Passionate about automation and workflow optimization  
-- 📈 Continuously learning advanced backend and AI integration  
+[![Portfolio](https://img.shields.io/badge/Portfolio-saadriaz99.github.io-blue?style=flat-square)](https://saadriaz99.github.io)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-saad--bin--riaz--pk-blue?style=flat-square)](https://www.linkedin.com/in/saad-bin-riaz-pk)
+[![Email](https://img.shields.io/badge/Email-malik.saad.riaz96%40gmail.com-red?style=flat-square)](mailto:malik.saad.riaz96@gmail.com)
 
 ---
 
-## 🛠 Tech Stack
+## 🔧 Core Expertise
 
-### 🔹 Backend
-- Python
-- REST APIs
-- MySQL / SQL
-- Application Logic & System Design
-
-### 🔹 Frontend
-- HTML
-- CSS
-- JavaScript
-- Responsive UI Design
-
-### 🔹 Tools & Workflow
-- Git & GitHub
-- VS Code
-- Command Line (CLI)
-- Modular Project Structure
+| Area | Technologies |
+|------|-------------|
+| Languages | Python (Expert), TypeScript, SQL |
+| AI Frameworks | AutoGen, CrewAI, LangChain, LangGraph, OpenAI SDK |
+| Agent Protocols | MCP (Model Context Protocol), Function Calling, Tool-Use |
+| Infrastructure | FastAPI, Docker, PostgreSQL, Redis, AWS |
+| Specialties | Multi-Agent Systems, Agentic RAG, Knowledge Graphs, Agent Security, LLMOps |
 
 ---
 
-## 📊 GitHub Stats
+## 🚀 Featured Agentic Systems
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SaadRiaz99&show_icons=true&theme=tokyonight)
+### [Personalized Shopping Orchestrator](https://github.com/SaadRiaz99/-Personalized-Shopping-Journey-Agent)
+A multi-agent system that autonomously researches products, compares live prices via web-search tools, and provides reasoned purchase recommendations. Built with FastAPI, LangGraph, and multi-agent orchestration.
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SaadRiaz99&layout=compact&theme=tokyonight)
-
----
-
-## 🚀 Featured Projects
-
-### 🛒 Ecommerce Application
-🔗 https://github.com/SaadRiaz99/Ecommerce  
-- Product listing and cart system  
-- Responsive UI design  
-- Structured backend logic  
+### [Autonomous Workflow Engine](https://github.com/SaadRiaz99)
+Self-correcting automation loops that handle data processing and API synchronization without human intervention. Implements MCP, error-handling, and monitoring.
 
 ---
 
-### 🏥 Hospital Management System
-🔗 https://github.com/SaadRiaz99/Hospital  
-- Patient and doctor workflows  
-- Record management system  
-- CRUD-based architecture  
+## 📈 18-Month Roadmap
+
+I'm following a structured **18-month Agentic AI Engineer roadmap** to reach top-tier global researcher level:
+
+![Phase Progress](https://progress-bar.dev/1/?title=Phase%201%20-%20Engineering%20Core&width=120)
+![Phase Progress](https://progress-bar.dev/0/?title=Phase%202%20-%20LLM%20Depth&width=100)
+![Phase Progress](https://progress-bar.dev/0/?title=Phase%203%20-%20Single-Agent&width=100)
+![Phase Progress](https://progress-bar.dev/0/?title=Phase%204%20-%20Multi-Agent&width=100)
+![Phase Progress](https://progress-bar.dev/0/?title=Phase%205%20-%20Production&width=100)
+![Phase Progress](https://progress-bar.dev/0/?title=Phase%206%20-%20Research&width=90)
+![Phase Progress](https://progress-bar.dev/0/?title=Phase%207%20-%20OSS&width=80)
+![Phase Progress](https://progress-bar.dev/0/?title=Phase%208%20-%20Career&width=80)
+
+📄 [View Full Roadmap](https://github.com/SaadRiaz99/SaadRiaz99.github.io/blob/main/AGENTIC_AI_ROADMAP_18_MONTHS.md)
 
 ---
 
-### 🎓 Student Portal
-🔗 https://github.com/SaadRiaz99/Student-Portal  
-- Student record management  
-- Marksheet generation  
-- Organized data handling  
+## 🧠 Current Learning Focus
+
+- **Model Context Protocol (MCP)** — unifying how agents connect to tools and data
+- **Agentic Security** — IAM and RBAC for autonomous agents
+- **Multi-Agent Orchestration** — decentralized agent swarms
+- **Knowledge Graphs** — graph-based RAG beyond vector search
 
 ---
 
-### 🌐 Portfolio Website
-🔗 https://github.com/SaadRiaz99/Saad-Bin-Riaz-Portfolio  
-- Clean UI/UX design  
-- Project showcase  
-- Professional presentation  
+## 📊 GitHub Activity
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SaadRiaz99&show_icons=true&theme=default&hide_border=true)
 
 ---
 
-## 🧪 Engineering Practices
+## 📬 Let's Collaborate
 
-- Clean and maintainable code structure  
-- Modular backend architecture  
-- Database normalization  
-- Error handling and validation  
-- Git-based version control  
+Open to discussing Agentic AI architecture, multi-agent systems, or advanced automation projects.
 
----
-
-## 🔥 Current Focus
-
-- Advanced backend system design  
-- API performance and optimization  
-- Automation tools with Python  
-- AI-powered application development  
+- **Portfolio:** [saadriaz99.github.io](https://saadriaz99.github.io)
+- **LinkedIn:** [linkedin.com/in/saad-bin-riaz-pk](https://www.linkedin.com/in/saad-bin-riaz-pk)
+- **Email:** [malik.saad.riaz96@gmail.com](mailto:malik.saad.riaz96@gmail.com)
 
 ---
 
-## 🌍 Future Goals
-
-- Build scalable SaaS applications  
-- Integrate AI into real-world systems  
-- Contribute to open-source projects  
-- Work on high-impact backend systems  
-
----
-
-## 📬 Contact Me
-
-- 🔗 LinkedIn: https://www.linkedin.com/in/saad-bin-riaz-56b802374/
-- 📧 Email: malik.saad.riaz96@gmail.com  
-
----
-
-## ⚡ Fun Fact
-
-I enjoy building systems that save time, reduce manual effort, and make processes smarter through automation.
-
----
-
-⭐ *Open to backend development, automation, and AI-focused opportunities*
+*"Architecting autonomous Silicon Workforces — one agent at a time."*
