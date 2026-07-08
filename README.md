@@ -5,7 +5,7 @@
 I build intelligent AI agents that reason, use tools, and collaborate to execute complex business workflows. Currently focused on multi-agent systems, MCP, and production-ready agent infrastructure.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-saad--bin--riaz--pk-blue?style=flat-square)](https://www.linkedin.com/in/saad-bin-riaz-pk)
-[![Email](https://img.shields.io/badge/Email-malik.saad.riaz96%40gmail.com-red?style=flat-square)](mailto:malik.saad.riaz96@gmail.com)
+[![Email](https://img.shields.io/badge/Email-malik.saad.riaz96%40gmail.com-red?style=flat-square)](mailto:malik.saad.riaz.96@gmail.com)
 
 ---
 
