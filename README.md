@@ -52,7 +52,7 @@ Custom agents using Gemini API + MCP for automated LinkedIn outreach, profile ma
 Open to discussing Agentic AI architecture, multi-agent systems, or advanced automation projects.
 
 - **LinkedIn:** [linkedin.com/in/saad-bin-riaz-pk](https://www.linkedin.com/in/saad-bin-riaz-pk)
-- **Email:** [malik.saad.riaz96@gmail.com](mailto:malik.saad.riaz96@gmail.com)
+- **Email:** [malik.saad.riaz.96@gmail.com](mailto:malik.saad.riaz96@gmail.com)
 
 ---
 
