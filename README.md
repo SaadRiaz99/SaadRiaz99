@@ -207,7 +207,7 @@ Full-stack multi-agent system that autonomously researches products and compares
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg">
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=SaadRiaz99&theme=tokyonight&hide_border=true&area=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
 
