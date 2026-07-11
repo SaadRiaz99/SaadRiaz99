@@ -200,16 +200,23 @@ Full-stack multi-agent system that autonomously researches products and compares
 
 <table>
 <tr>
-<td align="center" width="30%">
+<td>
 
-<img src="https://github.com/SaadRiaz99.png?size=150" width="150" style="border-radius:12px;">
-
-**Saad Bin Riaz**
-
-`AI Agentic Engineer`
+<img src="https://github.com/SaadRiaz99.png?size=180" width="180" style="border-radius:50%; border: 4px solid #0F172A;">
 
 </td>
-<td align="center" width="70%">
+<td>
+
+#### Saad Bin Riaz
+
+**AI Agentic Engineer** · Karachi, Pakistan
+
+```text
+I build autonomous AI agents that reason, plan, and execute.
+From prototype to production deployment.
+```
+
+> *"The future of AI isn't just about language models — it's about agents that can think, plan, and act autonomously in the real world."*
 
 <a href="https://www.linkedin.com/in/saad-bin-riaz-pk">
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
@@ -229,6 +236,6 @@ Full-stack multi-agent system that autonomously researches products and compares
 
 <div align="center">
 
-*"The future of AI isn't just about language models - it's about agents that can think, plan, and act autonomously in the real world."*
+⭐ **If you like what I build, consider giving a star to my repos!**
 
 </div>
