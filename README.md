@@ -1,8 +1,4 @@
-<div align="center">
-<img src="https://github.com/SaadRiaz99.png?size=200" width="180" style="border-radius:50%; border: 5px solid; border-image: linear-gradient(135deg, #00d2ff, #3a7bd5, #7b2ff7, #ff0080) 1; border-radius: 50%;">
-</div>
-
-<h2 align="center">Hi there, I'm Saad Bin Riaz <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"></h2>
+<h2 align="center"><img src="https://github.com/SaadRiaz99.png?size=50" width="40" style="border-radius:50%; filter: grayscale(100%);"> Hi there, I'm Saad Bin Riaz <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"></h2>
 
 <h3 align="center">AI Agentic Engineer | Building Autonomous Intelligence</h3>
 
