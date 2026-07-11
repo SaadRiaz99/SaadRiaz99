@@ -1,8 +1,6 @@
-<h1 align="center">Saad Bin Riaz</h1>
+<h2 align="center">Hi there, I'm Saad Bin Riaz <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"></h2>
 
-<p align="center">
-  <em>AI Agentic Engineer · Building Autonomous Intelligence</em>
-</p>
+<h3 align="center">AI Agentic Engineer | Building Autonomous Intelligence</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/saad-bin-riaz-pk">
@@ -17,7 +15,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=4000&pause=1000&color=0F172A&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=120&lines=%F0%9F%A4%96+I+build+autonomous+AI+agents+that+reason,+plan+%26+execute;F0%9F%94%A7+Specialized+in+Agentic+Systems,+LLMs+%26+MCP;F0%9F%9A%80+From+prototype+to+production+deployment" alt="Typing SVG">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=4000&pause=1000&color=0F172A&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=120&lines=I+build+autonomous+AI+agents+that+reason+and+execute;Specialized+in+Agentic+Systems+LLMs+and+MCP;From+prototype+to+production+deployment" alt="Typing SVG">
 </p>
 
 <p align="center">
@@ -26,64 +24,94 @@
 
 ---
 
-## Who I Am
+### A little more about me...
 
-I design and build **AI agent systems** that operate autonomously — making decisions, using tools, and orchestrating complex multi-step workflows without human intervention.
-
-My work sits at the intersection of **LLM reasoning**, **tool-use architectures**, and **production deployment** — turning research breakthroughs into reliable, scalable AI systems.
+```javascript
+const saadBinRiaz = {
+  name: "Saad Bin Riaz",
+  location: "Karachi, Pakistan",
+  currentFocus: "Building autonomous AI agents that reason, plan, and execute complex workflows",
+  
+  expertise: {
+    aiAndAgents: {
+      core: ["AI Agents", "Multi-Agent Systems", "Agentic RAG"],
+      llms: ["OpenAI", "Gemini", "Ollama", "LangChain", "LangGraph"],
+      protocols: ["MCP (Model Context Protocol)", "Function Calling", "Tool-Use"],
+      architectures: ["Agent Reasoning", "Parallel Execution", "Error Recovery"]
+    },
+    
+    backend: {
+      frameworks: ["FastAPI", "Django", "Flask"],
+      languages: ["Python", "TypeScript", "SQL"],
+      databases: ["PostgreSQL", "Qdrant", "Redis"]
+    },
+    
+    infrastructure: {
+      containerization: ["Docker", "Docker Compose"],
+      deployment: ["Production API Serving", "Free-Tier Deployment"],
+      tools: ["Git", "Linux", "VS Code"]
+    }
+  },
+  
+  whatIBuild: [
+    "Autonomous AI Agents with tool-use capabilities",
+    "Multi-agent orchestration systems",
+    "MCP servers for AI model integration",
+    "Production-ready FastAPI backends",
+    "From-scratch transformer implementations"
+  ],
+  
+  currentProjects: {
+    teachingAgent: "AI-powered interactive learning agent with Docker deployment",
+    llmToolkit: "Transformer and GPT implementations from first principles",
+    mcpTools: "Model Context Protocol server for healthcare AI",
+    shoppingAgent: "Full-stack multi-agent e-commerce assistant"
+  },
+  
+  funFact: "I don't just use AI - I build the AI that builds the future"
+};
+```
 
 ---
 
-## What I Build
+### What I Build
 
 <table>
 <tr>
 <td align="center" width="25%">
 
-```
-  ┌─────────────┐
-  │  🤖 AGENTS  │
-  └─────────────┘
-```
-
 **Autonomous AI Agents**
+
 Multi-step reasoning, planning, and execution
 
+`LangGraph` `Tool-Use` `Memory`
+
 </td>
 <td align="center" width="25%">
-
-```
-  ┌─────────────┐
-  │  🧠 LLMs    │
-  └─────────────┘
-```
 
 **Language Models**
+
 Transformer architectures built from scratch
 
-</td>
-<td align="center" width="25%">
-
-```
-  ┌─────────────┐
-  │  🔧 MCP     │
-  └─────────────┘
-```
-
-**Tool Protocols**
-Model Context Protocol servers & integrations
+`PyTorch` `Attention` `Tokenization`
 
 </td>
 <td align="center" width="25%">
 
-```
-  ┌─────────────┐
-  │  ⚡ APIs    │
-  └─────────────┘
-```
+**MCP Servers**
+
+Model Context Protocol integrations
+
+`TypeScript` `Node.js` `Protocol`
+
+</td>
+<td align="center" width="25%">
 
 **Production APIs**
+
 FastAPI serving with Docker deployment
+
+`FastAPI` `Docker` `PostgreSQL`
 
 </td>
 </tr>
@@ -91,70 +119,62 @@ FastAPI serving with Docker deployment
 
 ---
 
-## Tech Stack
+### Featured Projects
 
-<div align="center">
+<table>
+<tr>
+<td>
 
-**Languages**
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+#### Teaching-Agent
 
-**AI & ML**
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
-![LangGraph](https://img.shields.io/badge/LangGraph-3581F8?style=flat-square&logo=graphqlyl&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+AI-powered interactive learning agent with tool-use capabilities.
 
-**Infrastructure**
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![Qdrant](https://img.shields.io/badge/Qdrant-FC0330?style=flat-square&logo=vectorworks&logoColor=white)
+`Python` `FastAPI` `Docker` `LLM`
 
-</div>
+Multi-agent teaching system with structured curriculum, real-time interaction, and containerized deployment.
 
----
+</td>
+<td>
 
-## Featured Work
+#### LLM-Transformer-Toolkit
 
-### 🤖 Teaching-Agent
-> AI-powered interactive learning agent with tool-use capabilities
+Building language models from first principles.
 
-`Python` · `FastAPI` · `Docker` · `LLM` · `Tests`
+`Python` `PyTorch` `Transformers`
 
-Multi-agent teaching system with structured curriculum, real-time interaction, and containerized deployment. Demonstrates agent reasoning, tool orchestration, and production serving.
+From-scratch implementations of transformer architectures and GPT models.
 
----
+</td>
+</tr>
+<tr>
+<td>
 
-### 🧠 LLM-Transformer-Toolkit
-> Building language models from first principles
+#### MCP-Medical-Tools
 
-`Python` · `PyTorch` · `Transformers`
+Model Context Protocol server for healthcare AI.
 
-From-scratch implementations of transformer architectures and GPT models. Deep dive into attention mechanisms, tokenization, and model training — because understanding the internals matters.
+`TypeScript` `Node.js` `MCP`
 
----
+Production MCP server connecting AI models to medical tools and data sources.
 
-### 🔧 MCP-Medical-Tools
-> Model Context Protocol server for healthcare AI
+</td>
+<td>
 
-`TypeScript` · `Node.js` · `MCP`
+#### Personalized-Shopping-Agent
 
-Production MCP server implementation connecting AI models to medical tools and data sources. Demonstrates protocol-level integration with the emerging MCP standard.
+Multi-agent e-commerce assistant with autonomous search.
 
----
+`Python` `FastAPI` `LangGraph` `Docker`
 
-### 🛒 Personalized-Shopping-Agent
-> Multi-agent e-commerce assistant with autonomous search
+Full-stack multi-agent system that autonomously researches products and compares prices.
 
-`Python` · `FastAPI` · `LangGraph` · `Docker`
-
-Full-stack multi-agent system that autonomously researches products, compares prices via web search, and provides reasoned purchase recommendations.
+</td>
+</tr>
+</table>
 
 ---
 
-## GitHub Activity
+### GitHub Stats
 
 <div align="center">
 
@@ -172,26 +192,22 @@ Full-stack multi-agent system that autonomously researches products, compares pr
 
 ---
 
-## What I'm Working On
+### Let's Connect
 
-- **Agent Architecture** — State machines, parallel execution, error recovery
-- **Multi-Agent Systems** — LangGraph orchestration, agent communication
-- **Production Agents** — FastAPI serving, Docker deployment, monitoring
-- **MCP Ecosystem** — Building and deploying Model Context Protocol servers
-- **Agentic RAG** — Vector databases + retrieval-augmented generation
+<p align="center">
+  <a href="https://www.linkedin.com/in/saad-bin-riaz-pk">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="mailto:malik.saad.riaz.96@gmail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+  </a>
+</p>
 
 ---
 
-## Let's Talk
-
 <div align="center">
 
-I'm always interested in discussing **Agentic AI architecture**, **LLM applications**, or **autonomous systems design**.
-
-**Best ways to reach me:**
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/saad-bin-riaz-pk)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:malik.saad.riaz.96@gmail.com)
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg">
 
 </div>
 
@@ -199,16 +215,6 @@ I'm always interested in discussing **Agentic AI architecture**, **LLM applicati
 
 <div align="center">
 
-```
-╔═══════════════════════════════════════════════════════════════╗
-║                                                               ║
-║   "The future of AI isn't just about language models —        ║
-║    it's about agents that can think, plan, and act            ║
-║    autonomously in the real world."                           ║
-║                                                               ║
-╚═══════════════════════════════════════════════════════════════╝
-```
-
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg">
+*"The future of AI isn't just about language models - it's about agents that can think, plan, and act autonomously in the real world."*
 
 </div>
