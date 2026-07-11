@@ -1,8 +1,4 @@
 <div align="center">
-<img src="hero.svg" alt="Dot Matrix Portrait" width="100%">
-</div>
-
-<div align="center">
 <img src="https://github.com/SaadRiaz99.png?size=80" width="80" style="border-radius:50%;">
 </div>
 
@@ -202,14 +198,32 @@ Full-stack multi-agent system that autonomously researches products and compares
 
 ### Let's Connect
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/saad-bin-riaz-pk">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
-  <a href="mailto:malik.saad.riaz.96@gmail.com">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
-  </a>
-</p>
+<table>
+<tr>
+<td align="center" width="30%">
+
+<img src="https://github.com/SaadRiaz99.png?size=150" width="150" style="border-radius:12px;">
+
+**Saad Bin Riaz**
+
+`AI Agentic Engineer`
+
+</td>
+<td align="center" width="70%">
+
+<a href="https://www.linkedin.com/in/saad-bin-riaz-pk">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+</a>
+<a href="mailto:malik.saad.riaz.96@gmail.com">
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+</a>
+<a href="https://github.com/SaadRiaz99">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+</a>
+
+</td>
+</tr>
+</table>
 
 ---
 
