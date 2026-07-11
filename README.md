@@ -1,4 +1,8 @@
 <div align="center">
+<img src="hero.svg" alt="Dot Matrix Portrait" width="100%">
+</div>
+
+<div align="center">
 <img src="https://github.com/SaadRiaz99.png?size=80" width="80" style="border-radius:50%;">
 </div>
 
@@ -206,14 +210,6 @@ Full-stack multi-agent system that autonomously researches products and compares
     <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
   </a>
 </p>
-
----
-
-<div align="center">
-
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=SaadRiaz99&theme=tokyonight&hide_border=true&area=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-</div>
 
 ---
 
