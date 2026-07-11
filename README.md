@@ -1,211 +1,166 @@
-<div align="center">
+<h1 align="center">Saad Bin Riaz</h1>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=3581F8&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=100&lines=%F0%9F%91%8B+Hi%2C+I'm+Saad+Bin+Riaz;AI+Engineer+%7C+Agentic+Systems+Architect+%7C+LLM+Specialist" alt="Typing SVG" />
+<p align="center">
+  <em>AI Agentic Engineer · Building Autonomous Intelligence</em>
+</p>
 
-<img src="https://komarev.com/ghpvc/?username=SaadRiaz99&color=3581F8&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
+<p align="center">
+  <a href="https://www.linkedin.com/in/saad-bin-riaz-pk">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="mailto:malik.saad.riaz.96@gmail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+  </a>
+  <a href="https://github.com/SaadRiaz99">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+  </a>
+</p>
 
-</div>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=4000&pause=1000&color=0F172A&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=120&lines=%F0%9F%A4%96+I+build+autonomous+AI+agents+that+reason,+plan+%26+execute;F0%9F%94%A7+Specialized+in+Agentic+Systems,+LLMs+%26+MCP;F0%9F%9A%80+From+prototype+to+production+deployment" alt="Typing SVG">
+</p>
 
----
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/saad-bin-riaz-pk)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:malik.saad.riaz.96@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SaadRiaz99)
-
-</div>
-
----
-
-<div align="center">
-
-```
-  _____     _             ____            _ _       
- / ____|___| |__  _   _  | __ )  __ _  __| (_) ___  
-| |   / _ \ '_ \| | | | |  _ \ / _` |/ _` | |/ _ \ 
-| |__|  __/ |_) | |_| | | |_) | (_| | (_| | | (_) |
- \____\___|_.__/ \__, | |____/ \__,_|\__,_|_|\___/ 
-                  |___/                              
-  _____          _                                 
- |  ___|__  _ __| |_ ___ _ __ _ __   __ _         
- | |_ / _ \| '__| __/ _ \ '__| '_ \ / _` |        
- |  _| (_) | |  | ||  __/ |  | | | | (_| |        
- |_|  \___/|_|   \__\___|_|  |_| |_|\__, |        
-                                     |___/         
-```
-
-</div>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=SaadRiaz99&color=0F172A&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views">
+</p>
 
 ---
 
-## <img src="https://em-content.zobj.net/source/twitter/408/woman-technologist_1f469-200d-1f4bb.png" width="35"> &nbsp; About Me
+## Who I Am
 
-<div align="center">
+I design and build **AI agent systems** that operate autonomously — making decisions, using tools, and orchestrating complex multi-step workflows without human intervention.
 
-I'm an **AI Engineer** passionate about building **intelligent autonomous systems** that reason, plan, and execute complex workflows.
-
-Currently specializing in **Agentic AI**, **LLM-powered applications**, and **production-ready agent infrastructure**.
-
-*Architecting autonomous silicon workforces — one agent at a time.*
-
-</div>
+My work sits at the intersection of **LLM reasoning**, **tool-use architectures**, and **production deployment** — turning research breakthroughs into reliable, scalable AI systems.
 
 ---
 
-## <img src="https://em-content.zobj.net/source/twitter/408/fire_1f525.png" width="35"> &nbsp; What I Do
-
-<div align="center">
-
-```
-   ┌─────────────────────────────────────────────────────────┐
-   │                                                         │
-   │    🤖  AI Agents        🧠  LLMs           🔧  MCP      │
-   │    ─────────────       ─────────         ─────────     │
-   │    Multi-Agent          Transformer       Model         │
-   │    Orchestration        From-Scratch      Context       │
-   │    & Tool-Use           LLM Building      Protocol      │
-   │                                                         │
-   │    🚀  FastAPI          🐳  Docker         🗄️  RAG      │
-   │    ─────────────       ─────────         ─────────     │
-   │    Production           Containerized     Vector        │
-   │    API Serving          Deployment        Search        │
-   │                                              Systems    │
-   └─────────────────────────────────────────────────────────┘
-```
-
-</div>
-
----
-
-## <img src="https://em-content.zobj.net/source/twitter/408/hammer-and-wrench_1f6e0.png" width="35"> &nbsp; Tech Stack
-
-<div align="center">
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-
-<br>
-
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-
-<br>
-
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
-![LangGraph](https://img.shields.io/badge/LangGraph-3581F8?style=for-the-badge&logo=graphqlyl&logoColor=white)
-![Qdrant](https://img.shields.io/badge/Qdrant-FC0330?style=for-the-badge&logo=vectorworks&logoColor=white)
-
-<br>
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-
-</div>
-
----
-
-## <img src="https://em-content.zobj.net/source/twitter/408/rocket_1f680.png" width="35"> &nbsp; Featured Projects
-
-<div align="center">
+## What I Build
 
 <table>
 <tr>
-<td width="50%">
+<td align="center" width="25%">
 
-### 🤖 [Teaching-Agent](https://github.com/SaadRiaz99/Teaching-Agent)
-> AI-powered interactive learning agent
+```
+  ┌─────────────┐
+  │  🤖 AGENTS  │
+  └─────────────┘
+```
 
-`Python` `Docker` `FastAPI` `LLM`
-
-- Multi-agent teaching system
-- Docker containerized deployment
-- Frontend interface + tests
-
-</td>
-<td width="50%">
-
-### 🧠 [LLM-Transformer-Toolkit](https://github.com/SaadRiaz99/LLM-Transformer-Toolkit)
-> From-scratch transformer implementations
-
-`Python` `PyTorch` `Transformers`
-
-- GPT models built from scratch
-- Custom transformer architecture
-- Deep LLM understanding
+**Autonomous AI Agents**
+Multi-step reasoning, planning, and execution
 
 </td>
-</tr>
-<tr>
-<td width="50%">
+<td align="center" width="25%">
 
-### 🔧 [MCP-Medical-Tools](https://github.com/SaadRiaz99/MCP-Medical-Tools)
-> Model Context Protocol server
+```
+  ┌─────────────┐
+  │  🧠 LLMs    │
+  └─────────────┘
+```
 
-`TypeScript` `Node.js` `MCP`
-
-- Healthcare AI tools
-- MCP protocol implementation
-- Professional TypeScript code
+**Language Models**
+Transformer architectures built from scratch
 
 </td>
-<td width="50%">
+<td align="center" width="25%">
 
-### 🛒 [Personalized-Shopping-Agent](https://github.com/SaadRiaz99/Personalized-Shopping-Agent)
-> Full-stack AI shopping system
+```
+  ┌─────────────┐
+  │  🔧 MCP     │
+  └─────────────┘
+```
 
-`Python` `FastAPI` `LangGraph` `Docker`
-
-- Multi-agent orchestration
-- Web-search tool integration
-- Complete full-stack app
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-### 🐍 [Python-Mastery](https://github.com/SaadRiaz99/Python-Mastery)
-> Curated Python project collection
-
-`Python` `CSV` `JSON` `APIs`
-
-- Shopping Cart with billing
-- ATM Simulator
-- Weather Agent with APIs
+**Tool Protocols**
+Model Context Protocol servers & integrations
 
 </td>
-<td width="50%">
+<td align="center" width="25%">
 
-### ⚡ [FastAPI-Boilerplate](https://github.com/SaadRiaz99/FastAPI-Boilerplate)
-> Production-ready FastAPI starter
+```
+  ┌─────────────┐
+  │  ⚡ APIs    │
+  └─────────────┘
+```
 
-`FastAPI` `Jinja2` `pytest`
-
-- Async endpoints
-- Template integration
-- Test suite included
+**Production APIs**
+FastAPI serving with Docker deployment
 
 </td>
 </tr>
 </table>
 
+---
+
+## Tech Stack
+
+<div align="center">
+
+**Languages**
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+
+**AI & ML**
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LangGraph-3581F8?style=flat-square&logo=graphqlyl&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+
+**Infrastructure**
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Qdrant](https://img.shields.io/badge/Qdrant-FC0330?style=flat-square&logo=vectorworks&logoColor=white)
+
 </div>
 
 ---
 
-## <img src="https://em-content.zobj.net/source/twitter/408/chart-increasing_1f4c8.png" width="35"> &nbsp; GitHub Stats
+## Featured Work
+
+### 🤖 Teaching-Agent
+> AI-powered interactive learning agent with tool-use capabilities
+
+`Python` · `FastAPI` · `Docker` · `LLM` · `Tests`
+
+Multi-agent teaching system with structured curriculum, real-time interaction, and containerized deployment. Demonstrates agent reasoning, tool orchestration, and production serving.
+
+---
+
+### 🧠 LLM-Transformer-Toolkit
+> Building language models from first principles
+
+`Python` · `PyTorch` · `Transformers`
+
+From-scratch implementations of transformer architectures and GPT models. Deep dive into attention mechanisms, tokenization, and model training — because understanding the internals matters.
+
+---
+
+### 🔧 MCP-Medical-Tools
+> Model Context Protocol server for healthcare AI
+
+`TypeScript` · `Node.js` · `MCP`
+
+Production MCP server implementation connecting AI models to medical tools and data sources. Demonstrates protocol-level integration with the emerging MCP standard.
+
+---
+
+### 🛒 Personalized-Shopping-Agent
+> Multi-agent e-commerce assistant with autonomous search
+
+`Python` · `FastAPI` · `LangGraph` · `Docker`
+
+Full-stack multi-agent system that autonomously researches products, compares prices via web search, and provides reasoned purchase recommendations.
+
+---
+
+## GitHub Activity
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=SaadRiaz99&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SaadRiaz99&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+<img src="https://github-readme-stats.vercel.app/api?username=SaadRiaz99&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" width="48%">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SaadRiaz99&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" width="48%">
 
 </div>
 
@@ -217,65 +172,26 @@ Currently specializing in **Agentic AI**, **LLM-powered applications**, and **pr
 
 ---
 
-## <img src="https://em-content.zobj.net/source/twitter/408/brain_1f9e0.png" width="35"> &nbsp; Current Focus
+## What I'm Working On
 
-<div align="center">
-
-```
-╔══════════════════════════════════════════════════════════════╗
-║                                                              ║
-║  🎯  Agent Architecture — State machines, parallel execution ║
-║  🔗  Multi-Agent Systems — LangGraph, agent communication    ║
-║  🚀  Production Agents — FastAPI, Docker, deployment         ║
-║  🔧  MCP Ecosystem — Building Model Context Protocol servers ║
-║                                                              ║
-╚══════════════════════════════════════════════════════════════╝
-```
-
-</div>
+- **Agent Architecture** — State machines, parallel execution, error recovery
+- **Multi-Agent Systems** — LangGraph orchestration, agent communication
+- **Production Agents** — FastAPI serving, Docker deployment, monitoring
+- **MCP Ecosystem** — Building and deploying Model Context Protocol servers
+- **Agentic RAG** — Vector databases + retrieval-augmented generation
 
 ---
 
-## <img src="https://em-content.zobj.net/source/twitter/408/nerd-face_1f913.png" width="35"> &nbsp; Fun Fact
+## Let's Talk
 
 <div align="center">
 
-```
-╭─────────────────────────────────────────────────────╮
-│                                                     │
-│   "I don't just use AI — I build the AI that       │
-│    builds the future."                              │
-│                                                     │
-│    💡  Currently building autonomous agents         │
-│    🤖  That can reason, plan & execute              │
-│    🚀  To solve real-world problems                  │
-│                                                     │
-╰─────────────────────────────────────────────────────╯
-```
+I'm always interested in discussing **Agentic AI architecture**, **LLM applications**, or **autonomous systems design**.
 
-</div>
+**Best ways to reach me:**
 
----
-
-## <img src="https://em-content.zobj.net/source/twitter/408/handshake_1f91d.png" width="35"> &nbsp; Let's Connect
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/saad-bin-riaz-pk)](https://www.linkedin.com/in/saad-bin-riaz-pk)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:malik.saad.riaz.96@gmail.com)](mailto:malik.saad.riaz.96@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&link=https://github.com/SaadRiaz99)](https://github.com/SaadRiaz99)
-
-<br>
-
-```
-╔═══════════════════════════════════════════════════════════╗
-║                                                           ║
-║   📧  Email: malik.saad.riaz.96@gmail.com                ║
-║   💼  LinkedIn: linkedin.com/in/saad-bin-riaz-pk          ║
-║   🐙  GitHub: github.com/SaadRiaz99                      ║
-║                                                           ║
-╚═══════════════════════════════════════════════════════════╝
-```
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/saad-bin-riaz-pk)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:malik.saad.riaz.96@gmail.com)
 
 </div>
 
@@ -283,22 +199,16 @@ Currently specializing in **Agentic AI**, **LLM-powered applications**, and **pr
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" />
+```
+╔═══════════════════════════════════════════════════════════════╗
+║                                                               ║
+║   "The future of AI isn't just about language models —        ║
+║    it's about agents that can think, plan, and act            ║
+║    autonomously in the real world."                           ║
+║                                                               ║
+╚═══════════════════════════════════════════════════════════════╝
+```
 
-</div>
-
----
-
-<div align="center">
-
-![Profile Counter](https://count.getloli.com/@:SaadRiaz99?theme=retro)
-
-**Thank you for visiting my profile!** ⭐
-
-*If you're interested in Agentic AI, LLMs, or just want to chat about the future of autonomous systems — feel free to reach out!*
-
----
-
-<img src="https://img.shields.io/badge/Made_with_%E2%9D%A4_with_Python-3581F8?style=for-the-badge&logo=python&logoColor=white" alt="Made with Love" />
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg">
 
 </div>
