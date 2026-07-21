@@ -240,5 +240,5 @@ Full-stack multi-agent system that autonomously researches products, compares pr
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a1628,50:1e3a5f,100:0a1628&height=120&section=footer">
-[![Rankistan rank badge](https://img.shields.io/endpoint?url=https%3A%2F%2Frankistan-summary-api.academics-ali.workers.dev%2Fapi%2Fbadge%2FSaadriaz99&style=flat)](https://rankistan.dev/#Saadriaz99)
+
 </div>
