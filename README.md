@@ -1,90 +1,143 @@
 <div align="center">
 
-# Hi, I'm Saad Bin Riaz 👋
+![Header](https://capsule-render.vercel.app/api?type=waving&height=220&color=0:020617,45:0F4C81,100:06B6D4&text=Saad%20Bin%20Riaz&fontColor=FFFFFF&fontSize=48&fontAlignY=38&desc=AI%20Engineer%20in%20Progress%20%E2%80%A2%20Python%20Backend%20Developer%20%E2%80%A2%20Agentic%20AI%20Builder&descAlignY=59&descSize=16&animation=fadeIn)
 
-### AI Engineer in Progress · Python Backend Developer · Agentic AI Builder
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=21&duration=3000&pause=900&color=22D3EE&center=true&vCenter=true&width=720&lines=Building+AI+agents+that+solve+real+problems;Developing+RAG%2C+MCP+and+LLM-powered+systems;Turning+Python+ideas+into+working+products)](https://git.io/typing-svg)
 
-I build practical AI applications using **Python, FastAPI, RAG, AI agents, MCP, and local LLMs**.
+[![GitHub](https://img.shields.io/badge/GitHub-SaadRiaz99-181717?style=for-the-badge&logo=github)](https://github.com/SaadRiaz99)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Saad_Bin_Riaz-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/saad-bin-riaz-pk)
+[![Email](https://img.shields.io/badge/Email-Let's_Connect-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:malik.saad.riaz.96@gmail.com)
 
-[![GitHub followers](https://img.shields.io/github/followers/SaadRiaz99?style=for-the-badge&logo=github&label=Followers)](https://github.com/SaadRiaz99?tab=followers)
-[![Profile views](https://komarev.com/ghpvc/?username=SaadRiaz99&style=for-the-badge&color=0e75b6)](https://github.com/SaadRiaz99)
+![Profile views](https://komarev.com/ghpvc/?username=SaadRiaz99&label=Profile%20views&color=0891b2&style=flat-square)
+![Followers](https://img.shields.io/github/followers/SaadRiaz99?label=Followers&style=flat-square&color=0891b2)
 
 </div>
 
-## About Me
+## 👨‍💻 About Me
 
-- 🤖 Building AI agents, RAG systems, and automation tools
-- ⚡ Developing APIs and backend applications with Python and FastAPI
-- 🧠 Learning production-ready Agentic AI, MCP, and LLM integrations
-- 🦙 Exploring affordable AI development with Ollama and local/cloud models
-- 🛠️ Improving software architecture, debugging, testing, and deployment skills
-- 🎯 Goal: become a professional AI Engineer and build useful products for real users
+```python
+saad = {
+    "role": "AI Engineer in Progress",
+    "focus": ["Agentic AI", "RAG", "MCP", "Python Backends"],
+    "building_with": ["Python", "FastAPI", "OpenAI SDK", "Ollama"],
+    "learning": ["System Design", "Testing", "Deployment"],
+    "goal": "Build reliable AI products for real users"
+}
+```
 
-## Tech Stack
+- 🤖 I build practical **AI agents, RAG systems, and automation tools**.
+- ⚡ I develop backend applications and REST APIs using **Python and FastAPI**.
+- 🧠 I am learning how to move from AI prototypes to **tested, deployable systems**.
+- 🦙 I explore accessible AI development using **Ollama and local/cloud models**.
+- 🤝 I am open to junior AI roles, internships, freelance work, and collaboration.
 
-### Languages and Backend
+## 🧰 Technology Stack
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Pydantic](https://img.shields.io/badge/Pydantic-E92063?style=for-the-badge&logo=pydantic&logoColor=white)
-![REST API](https://img.shields.io/badge/REST_APIs-005571?style=for-the-badge&logo=fastapi&logoColor=white)
+<div align="center">
 
-### AI Engineering
+### AI & Agentic Systems
 
 ![OpenAI](https://img.shields.io/badge/OpenAI_SDK-412991?style=for-the-badge&logo=openai&logoColor=white)
 ![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white)
 ![RAG](https://img.shields.io/badge/RAG-FF6F00?style=for-the-badge&logo=semanticweb&logoColor=white)
-![AI Agents](https://img.shields.io/badge/AI_Agents-6C63FF?style=for-the-badge&logo=probot&logoColor=white)
-![MCP](https://img.shields.io/badge/Model_Context_Protocol-1F6FEB?style=for-the-badge&logo=protocols.io&logoColor=white)
+![AI Agents](https://img.shields.io/badge/AI_Agents-6D28D9?style=for-the-badge&logo=probot&logoColor=white)
+![MCP](https://img.shields.io/badge/MCP-0891B2?style=for-the-badge&logo=protocols.io&logoColor=white)
 
-### Data and Tools
+### Backend & Data
 
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Pydantic](https://img.shields.io/badge/Pydantic-E92063?style=for-the-badge&logo=pydantic&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-D71F00?style=for-the-badge&logo=sqlalchemy&logoColor=white)
+
+### Developer Tools
+
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
-## Featured Projects
+</div>
 
-| Project | What it demonstrates |
-|---|---|
-| [Personalized Shopping Agent](https://github.com/SaadRiaz99/Personalized-Shopping-Agent) | Personalized recommendations and agent-based shopping workflows |
-| [RAG System](https://github.com/SaadRiaz99/Rag-System) | Document indexing, embeddings, semantic search, and grounded AI answers |
-| [WhatsApp Bot](https://github.com/SaadRiaz99/Whatsapp_Bot) | Conversational automation and messaging integration |
-| [MCP Medical Tools](https://github.com/SaadRiaz99/MCP-Medical-Tools) | MCP tools and AI workflows for healthcare use cases |
-| [Agentic AI](https://github.com/SaadRiaz99/Agentic_Ai) | Experiments and learning projects involving AI agents and tools |
+## 🚀 Featured Projects
 
-## Current Focus
+<table>
+<tr>
+<td width="50%" valign="top">
 
-```text
-Python foundations  →  FastAPI backends  →  RAG systems
-        →  AI agents and MCP  →  Testing and deployment
-```
+### 🛍️ [Personalized Shopping Agent](https://github.com/SaadRiaz99/Personalized-Shopping-Agent)
 
-I am currently strengthening my ability to understand unfamiliar codebases, find bugs, design clean project structures, and turn AI prototypes into reliable applications.
+An AI-powered shopping assistant focused on personalized recommendations and agent-based product workflows.
 
-## GitHub Activity
+`Python` `FastAPI` `AI Agents`
+
+</td>
+<td width="50%" valign="top">
+
+### 📚 [RAG System](https://github.com/SaadRiaz99/Rag-System)
+
+A learning-focused retrieval pipeline covering document loading, chunking, embeddings, semantic search, and grounded answers.
+
+`Python` `Embeddings` `Semantic Search`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 💬 [WhatsApp Bot](https://github.com/SaadRiaz99/Whatsapp_Bot)
+
+A conversational automation project exploring WhatsApp messaging, chatbot logic, and backend integration.
+
+`Python` `FastAPI` `Automation`
+
+</td>
+<td width="50%" valign="top">
+
+### 🩺 [MCP Medical Tools](https://github.com/SaadRiaz99/MCP-Medical-Tools)
+
+Research and implementation work around Model Context Protocol tools for healthcare-oriented AI workflows.
+
+`MCP` `AI Tools` `Healthcare`
+
+</td>
+</tr>
+</table>
 
 <div align="center">
 
-![Saad's GitHub stats](https://github-readme-stats.vercel.app/api?username=SaadRiaz99&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github)
-
-![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SaadRiaz99&layout=compact&theme=tokyonight&hide_border=true)
-
-![GitHub streak](https://streak-stats.demolab.com?user=SaadRiaz99&theme=tokyonight&hide_border=true)
+[![Explore Repositories](https://img.shields.io/badge/Explore_All_Repositories-0F4C81?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SaadRiaz99?tab=repositories)
 
 </div>
 
-## Let's Connect
+## 🧭 Engineering Journey
 
-I am open to collaborating on **Python backend, Agentic AI, RAG, MCP, and automation projects**.
+`Python` → `FastAPI` → `RAG Systems` → `AI Agents` → `MCP Tools` → `Production AI`
+
+My current priority is learning to read unfamiliar code, debug systematically, structure backend projects well, write tests, and deploy useful AI applications.
+
+## 📊 GitHub Analytics
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-SaadRiaz99-181717?style=for-the-badge&logo=github)](https://github.com/SaadRiaz99)
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=SaadRiaz99&show_icons=true&theme=transparent&hide_border=true&title_color=22D3EE&icon_color=0891B2&text_color=94A3B8&rank_icon=github" alt="Saad's GitHub statistics">
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SaadRiaz99&layout=compact&theme=transparent&hide_border=true&title_color=22D3EE&text_color=94A3B8&langs_count=6" alt="Most used languages">
 
-### Build useful AI. Learn deeply. Improve every day.
+<img src="https://streak-stats.demolab.com?user=SaadRiaz99&theme=transparent&hide_border=true&ring=0891B2&fire=22D3EE&currStreakLabel=22D3EE&sideLabels=94A3B8&dates=64748B" alt="GitHub contribution streak">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=SaadRiaz99&bg_color=00000000&color=94A3B8&line=0891B2&point=22D3EE&area=true&hide_border=true" width="96%" alt="Contribution graph">
+
+</div>
+
+## 🤝 Let's Build Something Useful
+
+I am interested in collaborating on **Agentic AI, RAG, MCP, Python backend, chatbot, and automation projects**. If you are building something useful and need an enthusiastic AI developer, feel free to connect.
+
+<div align="center">
+
+### Learn deeply · Build consistently · Solve real problems
+
+![Footer](https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:020617,45:0F4C81,100:06B6D4)
 
 </div>
